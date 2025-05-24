@@ -1,0 +1,6 @@
+artifact_location: file:D:\canoj\unal-posgrado\2025 - S1\analitica-descriptiva\PRE-08-mlflow-tracking-local-canojuanpa800\my_mlruns/910882067565888064
+creation_time: 1748100283018
+experiment_id: '910882067565888064'
+last_update_time: 1748100283018
+lifecycle_stage: active
+name: wine_quality_experiment

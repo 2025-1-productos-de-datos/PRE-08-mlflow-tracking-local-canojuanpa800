@@ -1,0 +1,15 @@
+artifact_uri: file:D:\canoj\unal-posgrado\2025 - S1\analitica-descriptiva\PRE-08-mlflow-tracking-local-canojuanpa800\my_mlruns/910882067565888064/ac456e052fd142e7942e12d17face641/artifacts
+end_time: 1748100284437
+entry_point_name: ''
+experiment_id: '910882067565888064'
+lifecycle_stage: active
+run_id: ac456e052fd142e7942e12d17face641
+run_name: knn_da05c03f
+run_uuid: ac456e052fd142e7942e12d17face641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100284094
+status: 3
+tags: []
+user_id: canoj
